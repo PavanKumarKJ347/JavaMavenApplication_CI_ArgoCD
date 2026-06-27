@@ -1,7 +1,7 @@
 
 # End to End CI Pipeline Project for GitOps ArgoCD
 
-## This Project can be used to Build an End to End CI Pipeline for GitOps ArgoCD
+## This Project Can be Used to Build an End to End CI Pipeline for GitOps ArgoCD
 
 ## CI Pipeline Stages
 
@@ -14,7 +14,7 @@
 - Remove Docker Image Locally in Jenkins.
 - Trigger Continuous Delivery Pipeline - ArgoCD.
 
-### Tools and Technologies used are Java, Git, GitHub, Maven, SonarQube, Sonatype Nexus, Jenkins, Docker, AWS ECR Registry, Kubernetes and Amazon Web Services.
+### Tools and Technologies Used are Java, Git, GitHub, Maven, SonarQube, Sonatype Nexus, Jenkins, Docker, AWS ECR Registry, Kubernetes and Amazon Web Services.
 
 <img width="978" alt="CI" src="https://github.com/DevOpsCloudAutomation/GitHub/assets/123757746/0e8dacfe-5246-4f56-9b91-9d8f0f365b89">
 
@@ -26,13 +26,13 @@
 
 ## Build Project
 
-Build Automation Tool Maven can be used to build this project as this project is developed using Java Programming Language.
+Build Automation Tool Maven Can be Used to Build This Project as this Project is Developed Using Java Programming Language.
 
 ```bash
   mvn clean package
 ```
-Note:  
-Java and Maven should be installed as a prerequisite to Build Project Code.
+Note:
+Java and Maven Should be Installed as a Prerequisite to Build Project Code.
 
 ## Execute SonarQube Test
 ```bash
