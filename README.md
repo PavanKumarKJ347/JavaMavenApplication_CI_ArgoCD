@@ -16,8 +16,6 @@
 
 ### Tools and Technologies Used are Java, Git, GitHub, Maven, SonarQube, Sonatype Nexus, Jenkins, Docker, AWS ECR Registry, Kubernetes and Amazon Web Services.
 
-<img width="978" alt="CI" src="https://github.com/DevOpsCloudAutomation/GitHub/assets/123757746/0e8dacfe-5246-4f56-9b91-9d8f0f365b89">
-
 # Project Execution
 ## Git Checkout
 ```bash
