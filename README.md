@@ -29,8 +29,7 @@ Build Automation Tool Maven Can be Used to Build This Project as this Project is
 ```bash
   mvn clean package
 ```
-Note:
-Java and Maven Should be Installed as a Prerequisite to Build Project Code.
+### Java and Maven Should be Installed as a Prerequisite to Build Project Code.
 
 ## Execute SonarQube Test
 ```bash
